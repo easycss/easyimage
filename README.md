@@ -1,7 +1,7 @@
 # Easy Image
 Images for development and prototyping
 
-### [https://easycss.github.io/easyimage/img1.png]
+### [[https://easycss.github.io/easyimage/img1.png](https://github.com/easycss/easyimage/blob/main/img1.png?raw=true)]
 ![image1](https://github.com/easycss/easyimage/blob/main/img1.png?raw=true)
 
 ### [https://easycss.github.io/easyimage/imgsq2.jpg]
